@@ -27,9 +27,6 @@ NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/8cd764fbdf3ccd34abe22.j
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_downlode_dpbots")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/16780b1ad4da20c056f99.jpg")
 
-# add premium logs channel id
-PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002141251057'))
-
 # Admins, Channels & Users
 USERNAME = environ.get("USERNAME", "https://t.me/I_Am_MrAK")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002141251057'))
